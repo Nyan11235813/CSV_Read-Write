@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9T0hCjybKYnU/fgiGI7e54F7PYOLgmDLGIQ/+P8E8PY/gs5RQZFcCnwLUa0C605XxspZ5t3CIAf/E003ys++DQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jpas\\source\\repos\\CSV読み書きアプリ2\\CSV読み書きアプリ2\\CSV読み書きアプリ2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jpas\\.nuget\\packages\\csv\\2.0.170\\csv.2.0.170.nupkg.sha512"
+  ],
+  "logs": []
+}

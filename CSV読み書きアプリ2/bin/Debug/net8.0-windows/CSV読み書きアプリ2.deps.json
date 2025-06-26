@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CSV読み書きアプリ2/1.0.0": {
+        "dependencies": {
+          "Csv": "2.0.170"
+        },
+        "runtime": {
+          "CSV読み書きアプリ2.dll": {}
+        }
+      },
+      "Csv/2.0.170": {
+        "runtime": {
+          "lib/net8.0/Csv.dll": {
+            "assemblyVersion": "2.0.170.0",
+            "fileVersion": "2.0.170.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSV読み書きアプリ2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Csv/2.0.170": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cwnjv33sayBzn54DFXGKHyLHkU1gXMV3IwFz0GfLy7cDwfqQXocg6on57g3A61UxMfpmD+njEwRCdUWpfs45iw==",
+      "path": "csv/2.0.170",
+      "hashPath": "csv.2.0.170.nupkg.sha512"
+    }
+  }
+}
